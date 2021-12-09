@@ -1,0 +1,31 @@
+# Editors / IDEs
+.idea/
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+.history
+
+# Packages
+.npmrc
+node_modules/
+
+# testing
+coverage/
+test-report*
+screenshots/
+
+# Build
+dist/
+build/
+*.tar.gz
+
+# Dotenv
+*.env
+
+# OS
+.DS_Store
+desktop.ini
+Thumbs.db
